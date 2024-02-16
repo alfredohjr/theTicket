@@ -1,7 +1,5 @@
 # theTicket
 
-## Description
-
 This is a simple ticketing system that allows users to create, view, and delete tickets. 
 
 ## Table of Contents
