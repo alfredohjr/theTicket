@@ -1,0 +1,8 @@
+*.pyc
+
+amb
+media
+
+.env
+
+db.sqlite3
